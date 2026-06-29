@@ -21,7 +21,13 @@
             "name": "Shotcut",
             "url": "https://www.shotcut.org/",
             "notes" :"Official browser website."
-        }
+        },
+    {
+"id": "nomac",
+      "name": "Nomac",
+      "url":"https://nomacs.org/",
+      "notes":"lighweight image viewer"
+    }
       ]
     },
     {
